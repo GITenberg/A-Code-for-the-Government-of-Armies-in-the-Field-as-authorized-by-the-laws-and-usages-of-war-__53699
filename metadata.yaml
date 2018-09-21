@@ -1,0 +1,38 @@
+_repo: A-Code-for-the-Government-of-Armies-in-the-Field-as-authorized-by-the-laws-and-usages-of-war-__53699
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lieber, Francis
+    aliases:
+    - Lieber, Franz
+    - Herrmann, Christian
+    birthdate: 1800
+    deathdate: 1872
+    gutenberg_agent_id: '47492'
+    url: http://www.gutenberg.org/2009/agents/47492
+  - agent_name: United States. War Department
+    aliases:
+    - Department, U. S. War
+    - United States. War Dept.
+    - Department, United States. War
+    - Dept., United States. War
+    gutenberg_agent_id: '3745'
+    url: http://www.gutenberg.org/2009/agents/3745
+description: ''
+gutenberg_issued: '2016-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Regulations'
+- !lcc 'KF'
+- !lcsh 'Military law -- United States'
+- GITenberg
+title: 'A Code for the Government of Armies in the Field,
+
+  as authorized by the laws and usages of war on land.'
+url: http://www.gutenberg.org/ebooks/53699
